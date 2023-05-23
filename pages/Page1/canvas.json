@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 680,
+          "bottomRow": 820,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -74,15 +74,15 @@
                 "photo",
                 "video recorder"
               ],
-              "topRow": 35,
-              "bottomRow": 68,
+              "topRow": 49,
+              "bottomRow": 82,
               "parentRowSpace": 10,
               "type": "CAMERA_WIDGET",
               "hideCard": false,
               "mode": "CAMERA",
               "mobileRightColumn": 32,
               "parentColumnSpace": 13.15625,
-              "leftColumn": 7,
+              "leftColumn": 29,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -92,7 +92,7 @@
               "key": "gyrxw06bz9",
               "isMirrored": true,
               "isDeprecated": false,
-              "rightColumn": 32,
+              "rightColumn": 54,
               "widgetId": "72pt7jmi8q",
               "isVisible": true,
               "version": 1,
@@ -115,8 +115,8 @@
                 "click",
                 "submit"
               ],
-              "topRow": 35,
-              "bottomRow": 39,
+              "topRow": 10,
+              "bottomRow": 14,
               "parentRowSpace": 10,
               "groupButtons": {
                 "groupButton1": {
@@ -199,7 +199,7 @@
               "mobileRightColumn": 63,
               "animateLoading": true,
               "parentColumnSpace": 13.15625,
-              "leftColumn": 39,
+              "leftColumn": 29,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -217,7 +217,7 @@
               "key": "agqmyn77w8",
               "orientation": "horizontal",
               "isDeprecated": false,
-              "rightColumn": 63,
+              "rightColumn": 53,
               "widgetId": "fbh99cpzop",
               "minWidth": 450,
               "isVisible": true,
